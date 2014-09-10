@@ -8,7 +8,7 @@ body {
 }
 
 .text-primary {
-    color: #1bb580;
+    color: #4f93e2;
 }
 
 p {
@@ -29,7 +29,7 @@ a.active {
 }
 
 a {
-    color: #1bb580;
+    color: #4f93e2;
 }
 
 a:hover,
@@ -63,12 +63,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #1bb580;
+    border-color: #4f93e2;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #1bb580;
+    background-color: #4f93e2;
 }
 
 .btn-primary:hover,
@@ -113,14 +113,14 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #1bb580;
+    border-color: #4f93e2;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #1bb580;
+    background-color: #4f93e2 ;
 }
 
 .btn-xl:hover,
@@ -128,9 +128,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #117251;
+    border-color: #7EB0EB;
     color: #fff;
-    background-color: #117251;
+    background-color: #7EB0EB;
 }
 
 .btn-xl:active,
@@ -154,8 +154,8 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #1bb580;
-    background-color: #1bb580;
+    border-color: #7EB0EB;
+    background-color: #7EB0EB;
 }
 
 .btn-xl .badge {
@@ -169,14 +169,14 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    color: #1bb580;
+    color: #4f93e2;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #117251;
+    color: #95ceff;
 }
 
 .navbar-default .navbar-collapse {
@@ -194,7 +194,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #1bb580;
+    background-color: #7EB0EB;
 }
 
 .navbar-default .nav li a {
@@ -208,19 +208,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #1bb580;
+    color: #7EB0EB;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #1bb580;
+    background-color: #4f93e2;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #117251;
+    background-color: #4f93e2;
 }
 
 @media(min-width:768px) {
@@ -803,10 +803,16 @@ ul.social-buttons li a {
     transition: all .3s;
 }
 
-ul.social-buttons li a:hover,
-ul.social-buttons li a:focus,
-ul.social-buttons li a:active {
-    background-color: #1bb580;
+li#twitter a:hover,
+li#twitter a:focus,
+li#twitter a:active {
+    background-color: #55acee;
+}
+
+li#facebook a:hover,
+li#facebook a:focus,
+li#facebook a:active  {
+    background-color: #46629E;
 }
 
 .btn:focus,
@@ -889,12 +895,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #1bb580;
+    background: #4f93e2;
 }
 
 ::selection {
     text-shadow: none;
-    background: #1bb580;
+    background: #4f93e2;
 }
 
 img::selection {
@@ -922,7 +928,7 @@ img::-moz-selection {
 }
 
 #mc_embed_signup input.button {
-    background-color: #1bb580;
+    background-color: #4f93e2;
     display: block;
     width: 44%;
     min-width: 90px;
@@ -930,10 +936,10 @@ img::-moz-selection {
 }
 
 #mc_embed_signup input.button:hover { 
-    background-color: #117251;
+    background-color: #7EB0EB;
 }
 
 
 body {
-    webkit-tap-highlight-color: #1bb580;
+    webkit-tap-highlight-color: #4f93e2;
 }
