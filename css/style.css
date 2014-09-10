@@ -851,6 +851,27 @@ img::-moz-selection {
     background: 0 0;
 }
 
+#mc_embed_signup { 
+    margin: 0 auto;
+}
+
+#mc_embed_signup input.email {
+    display: block;
+    padding: 8px 0;
+    text-indent: 5px;
+    width: 58%;
+    min-width: 130px;
+    margin: 0 auto; 
+    margin-bottom: 10px;
+}
+
+#mc_embed_signup input.button {
+    display: block;
+    width: 35%;
+    min-width: 90px;
+    margin: 0 auto;
+}
+
 body {
     webkit-tap-highlight-color: #1bb580;
 }
